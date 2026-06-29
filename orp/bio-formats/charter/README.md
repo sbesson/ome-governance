@@ -28,7 +28,7 @@ Contributors are community members who engage directly with the project in concr
 
 All community members are encouraged to contribute. Contributions should be
 made in compliance with the OME Project's
-[Code of Conduct](https://github.com/ome/governance/blob/master/code-of-conduct/README.md).
+[Code of Conduct](../../../code-of-conduct/).
 Guidance on providing feedback, bug reports, and test data is available
 [here](https://bio-formats.readthedocs.io/en/latest/about/bug-reporting.html).
 Requirements for code and documentation contributions are
@@ -53,7 +53,7 @@ Management Committee (PMC) in an Apache-governed project.
   in the [Bio-Formats roster](../roster/README.md).
 - Authority: The PSC is self-governing and its membership is not overseen by
   the OME Management Group (OMG). The PSC is currently defined as anyone with a
-  *Maintainer* role as defined in the [Bio-Formats roster](../roster/README.md).
+  *Maintainer* role as defined in the [Bio-Formats roster](../roster/).
 - Membership is Merit-Based: Any contributor is eligible to join the PSC.
   - Nomination: Existing PSC members must nominate new members. Nominations must
     be based on clear evidence of sustained, quality contribution to the
@@ -124,7 +124,7 @@ requested change or the absence of a review blocks a proposed change.
 ## **Code of Conduct**
 
 As a Registered Project, Bio-Formats adheres to the OME Project's
-[Code of Conduct](https://github.com/ome/.github/blob/master/CODE_OF_CONDUCT.md).
+[Code of Conduct](../../../code-of-conduct/).
 The Bio-Formats project and prospective contributors are expected to adhere
 to OME's [third party contribution and communication policy](https://ome-contributing.readthedocs.io/en/latest/third-party-policy.html).
 
