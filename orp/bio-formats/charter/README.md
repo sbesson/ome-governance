@@ -49,11 +49,8 @@ Management Committee (PMC) in an Apache-governed project.
 - Function: The PSC have administrative rights and make decisions, such as
   accepting or rejecting pull requests, and managing administrative actions
   within the project's repositories (e.g. adding/removing members).
-  The PSC is currently defined as anyone with a `Maintainer` role as defined
-  in the [Bio-Formats roster](../roster/README.md).
 - Authority: The PSC is self-governing and its membership is not overseen by
-  the OME Management Group (OMG). The PSC is currently defined as anyone with a
-  *Maintainer* role as defined in the [Bio-Formats roster](../roster/).
+  the OME Management Group (OMG).
 - Membership is Merit-Based: Any contributor is eligible to join the PSC.
   - Nomination: Existing PSC members must nominate new members. Nominations must
     be based on clear evidence of sustained, quality contribution to the
@@ -61,6 +58,9 @@ Management Committee (PMC) in an Apache-governed project.
     consensus, but at minimum majority approval).
   - Removal: PSC members who become inactive can and should be removed via a
     majority vote of the existing active PSC.
+
+The PSC iscurrently defined as anyone with a *Maintainer* role as defined in the
+[Bio-Formats roster](../roster/).
 
 ### **PSC Chair**
 
