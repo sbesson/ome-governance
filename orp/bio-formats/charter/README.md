@@ -1,3 +1,9 @@
+---
+title: Bio-Formats charter
+permalink: /governance/orp/bio-formats/charter/
+description: Charter for OME Bio-Formats
+---
+
 # Charter for OME Bio-Formats
 
 ## **Overview**

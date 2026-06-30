@@ -1,3 +1,9 @@
+---
+title: Bio-Formats roster
+permalink: /governance/orp/bio-formats/roster/
+description: Roster for OME Bio-Formats
+---
+
 # **OME Bio-Formats — Roster**
 
 ## **1. Overview**
