@@ -141,6 +141,7 @@ following public repositories within the `ome` organization:
 - https://github.com/ome/omero-blitz
 - https://github.com/ome/omero-gateway-java
 - https://github.com/ome/omero-py
+- https://github.com/ome/omero-scripts
 - https://github.com/ome/openmicroscopy
 - https://github.com/ome/omero-server-docker
 - https://github.com/ome/omero-documentation
